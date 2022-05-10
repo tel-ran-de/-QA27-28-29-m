@@ -1,1 +1,3 @@
-# -QA27-28-29-m
+# Group 23m repository
+From the drop-down menu, choose a lesson.
+Homework in issue.
